@@ -1,6 +1,6 @@
 ##Website Link 
 
-https://vercel.com/kamrul-hasans-projects-ba926ee5/props-use
+https://props-use.vercel.app/
 
 
 # Getting Started with Create React App
